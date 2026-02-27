@@ -12,19 +12,19 @@ Breaking down papers into 9 essential points: Context, Problem, Importance, Why 
 
 #### Areas of Interest
 
-| Domain                                         | Focus Areas                                                                                                                                                                                                           |
-| ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Systems Engineering**                        | Systems programming (Rust), memory safety, concurrency models, performance engineering, Linux internals, networking stack, high-performance dataplanes (XDP, AF_XDP, DPDK), zero-copy architectures                   |
-| **Compilers & Language Design**                | Parsing and lexer design, intermediate representations (IR), static analysis, execution models, deterministic runtimes, reproducible numerics, language tooling                                                       |
-| **Cybersecurity**                              | Exploit development fundamentals, network security (firewalls, IDS/IPS), deep packet inspection (DPI), protocol analysis (TCP/IP, TLS), threat intelligence systems, attack simulation, defensive systems engineering |
-| **Artificial Intelligence & Machine Learning** | Statistical computing systems, ML system design, reproducible ML workflows, applied AI in security contexts, performance-aware ML infrastructure                                                                      |
+| Domain                                         | Focus Areas                                                                                                                                                                                                                                                                            |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Systems Engineering**                        | Systems programming in **Rust** and **C**, memory-safe architectures, lock-free and concurrent system design, performance engineering, Linux internals, networking stack optimization, high-performance dataplanes (XDP, AF_XDP, DPDK), zero-copy systems, kernel–userspace boundaries |
+| **Compilers & Language Design**                | Parser and lexer implementation, IR design, static analysis, deterministic execution models, reproducible numerics, language tooling, bytecode & VM design, ahead-of-time (AOT) and JIT compilation strategies                                                                         |
+| **Cybersecurity**                              | Exploit development fundamentals, reverse engineering, secure systems design, network security engineering (firewalls, IDS/IPS), deep packet inspection (DPI), protocol analysis (TCP/IP, TLS), adversarial simulation, defensive infrastructure architecture                          |
+| **Artificial Intelligence & Machine Learning** | ML systems engineering, statistical computing infrastructure, reproducible ML pipelines, security-oriented AI systems, performance-aware model deployment, distributed training systems, applied AI in threat detection & anomaly detection|
 
 #### Projects
 
-* **Aegis** – High-performance Rust firewall / IDS with L3/L4 rule engine, stateful flow tracking, TCP reassembly, DPI heuristics, threat intelligence integration, and AF_XDP/DPDK-backed dataplane support
-* **Lattice** – Scientific computing language for reproducible numerics and statistical workflows with REPL and embeddable runtime
-* **Moonlight** – Modular Rust security framework with deterministic control plane, session tracking, campaign management, and advisory planning
-* **DevOps Scripts Library** – Production-grade automation toolkit with strict engineering standards for reliability, safety, and maintainability
+* **Aegis** – High-performance Rust firewall and IDS  
+* **Lattice Programming Language** – Reproducible scientific computing language  
+* **Moonlight** – Modular Rust security orchestration framework  
+* **DevOps Scripts Library** – Production-grade infrastructure automation toolkit  
 
 #### Connect
 
