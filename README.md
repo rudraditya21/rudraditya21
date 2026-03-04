@@ -1,6 +1,6 @@
 ### Hi, I'm Rudraditya Thakur
 
-**Systems & Compilers · Cybersecurity · Artificial Intelligence & Machine Learning**
+**Systems & Compilers · Cybersecurity · Artificial Intelligence & Machine Learning · Blockchain & Distributed Systems**
 
 #### Nova Signal (Blog)
 <p align="center">
@@ -12,12 +12,13 @@ Breaking down papers into 9 essential points: Context, Problem, Importance, Why 
 
 #### Areas of Interest
 
-| Domain                                         | Focus Areas                                                                                                                                                                                                                                                                            |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Systems Engineering**                        | Systems programming in **Rust** and **C**, memory-safe architectures, lock-free and concurrent system design, performance engineering, Linux internals, networking stack optimization, high-performance dataplanes (XDP, AF_XDP, DPDK), zero-copy systems, kernel–userspace boundaries |
-| **Compilers & Language Design**                | Parser and lexer implementation, IR design, static analysis, deterministic execution models, reproducible numerics, language tooling, bytecode & VM design, ahead-of-time (AOT) and JIT compilation strategies                                                                         |
-| **Cybersecurity**                              | Exploit development fundamentals, reverse engineering, secure systems design, network security engineering (firewalls, IDS/IPS), deep packet inspection (DPI), protocol analysis (TCP/IP, TLS), adversarial simulation, defensive infrastructure architecture                          |
-| **Artificial Intelligence & Machine Learning** | ML systems engineering, statistical computing infrastructure, reproducible ML pipelines, security-oriented AI systems, performance-aware model deployment, distributed training systems, applied AI in threat detection & anomaly detection|
+| Domain                                         | Focus Areas                                                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Blockchain & Distributed Systems**           | Layer-1 architecture, Ethereum & EVM internals, execution layer mechanics, consensus design (PoS), mempool architecture, Merkle trees, state transition systems, P2P networking, transaction propagation, smart contracts (Solidity), cryptographic primitives, high-performance blockchain clients in Rust |
+| **Systems Engineering**                        | Systems programming in **Rust** and **C**, memory-safe architectures, lock-free and concurrent system design, performance engineering, Linux internals, networking stack optimization, high-performance dataplanes (XDP, AF_XDP, DPDK), zero-copy systems, kernel–userspace boundaries                      |
+| **Compilers & Language Design**                | Parser and lexer implementation, IR design, static analysis, deterministic execution models, reproducible numerics, language tooling, bytecode & VM design, ahead-of-time (AOT) and JIT compilation strategies                                                                                              |
+| **Cybersecurity**                              | Exploit development fundamentals, reverse engineering, secure systems design, network security engineering (firewalls, IDS/IPS), deep packet inspection (DPI), protocol analysis (TCP/IP, TLS), adversarial simulation, defensive infrastructure architecture                                               |
+| **Artificial Intelligence & Machine Learning** | ML systems engineering, statistical computing infrastructure, reproducible ML pipelines, security-oriented AI systems, performance-aware model deployment, distributed training systems, applied AI in threat detection & anomaly detection                                                                 |
 
 #### Projects
 
