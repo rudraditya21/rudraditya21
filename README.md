@@ -2,15 +2,6 @@
 
 **Systems & Compilers · Cybersecurity · Artificial Intelligence & Machine Learning · Blockchain & Distributed Systems**
 
-#### Nova Signal (Blog)
-<p align="center">
-  <a href="https://www.nova-signal.com/">
-    <img src="https://www.nova-signal.com/og-image-1200x630.png" alt="Nova Signal" height="200" width="400"/>
-  </a>
-</p>
-
-Breaking down papers into 9 essential points: Context, Problem, Importance, Why Existing Approaches Fall Short, Key Insight, Approach, Why It Works, Limitations, and Impact.
-
 #### Areas of Interest
 
 | Domain                                         | Focus Areas                                                                                                                                                                                                                                                                                                 |
