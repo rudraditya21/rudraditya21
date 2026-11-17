@@ -4,8 +4,6 @@ Turning caffeine into products.
 
 I'm curious about how things work, from the software running our machines to the physical principles governing computation. I enjoy building things from the ground up, exploring unfamiliar problems, and seeing how far an idea can go.
 
-Currently building [Supernova Labs](https://supernova-labs.com), where we're developing open-source infrastructure and tools for experimentation.
-
 ### What I'm working on
 
 - **Parallax** — An open-source experiment-tracking platform connecting code, configurations, metrics, and results. Every experiment, connected to its context.
